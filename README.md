@@ -2,18 +2,18 @@
 
 Classe utilitária criada para computar logs em diferentes ambientes de desenvolvimento (`dev` ou `prod`)
 
-# Ferramentas de Devpl
+## Ferramentas de Devpl
 
 - Node.js
 - Git e GitHub
 - VSCode
 
-# Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **React**
 - **Vite**
 
-# Getting Start
+## Getting Start
 
 - Criação do logger no projeto (preferencialmente no `src/utils/logger.ts`)
 - Uso do logger
